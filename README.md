@@ -1,9 +1,10 @@
 # Deep-Neural-Network
 
 <h2>Machine Learning Library</h2>
+<h3>How to approach a Machine Learning project : A step-wise guidance</h3>
 
 <a href="https://colab.research.google.com/drive/1aCb1hSTPjJhVP09_QTaPW_GJmeltjTHU">
- How to approach a Machine Learning project : A step-wise guidance
+ Open With Google Colab
 </a>
 
 
