@@ -6,5 +6,9 @@ scikit-learn
 scipy
 tensorflow
 torch
+torchvision
+timm
+tqdm
+kagglehub
 opencv-python
 jupyter

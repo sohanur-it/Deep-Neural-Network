@@ -60,6 +60,7 @@ and handwritten-digits datasets throughout.
 | `02_autograd.py` | Gradient tracking and `.backward()` |
 | `03_simple_nn.py` | A minimal `nn.Module` feedforward network |
 | `04_train_iris.py` | Full training loop on the Iris dataset |
+| `06_card_image_classifier.ipynb` | Playing-card image classifier: `ImageFolder` dataset, pretrained `timm` EfficientNet-B0, train/val loop, loss plot, predictions |
 
 ### 06 — Computer Vision with OpenCV
 Webcam capture, face detection, and motion detection, building in complexity.
